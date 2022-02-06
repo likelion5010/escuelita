@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Ideapad 320\Desktop\poo\ProyectoPOO\.metadata\.plugins\org.eclipse.jdt.core
+3406171383.index
+1865797976.index
+3245769163.index

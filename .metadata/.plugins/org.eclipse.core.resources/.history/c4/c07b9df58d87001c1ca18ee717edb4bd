@@ -1,0 +1,12 @@
+package txt;
+
+public class main {
+
+	public static void main(String[] args) {
+		usuario aux= new usuario();
+		Login login= new Login();
+		login.comprobarBd(aux.FicheroProducto);
+
+	}
+
+}
